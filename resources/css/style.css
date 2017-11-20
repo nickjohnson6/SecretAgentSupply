@@ -1,0 +1,20 @@
+body {
+  font-size: 18px;
+}
+.company {
+  background-color: black;
+  color: white;
+}
+.container {
+  max-width: 960px;
+  margin: 0px auto;
+}
+.company img {
+  height: 1.5rem;
+  padding-left: 0.5rem;
+  padding-right: 1rem;
+}
+.company span {
+font-family: helvetica;
+font-size: 1rem;
+}
